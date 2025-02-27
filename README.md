@@ -1,218 +1,220 @@
-<h1 align="center">
-  <a href="https://github.com/Mudassar52">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF5E5B&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+%5BMudassar%5D;Software+Engineer;UI%2FUX+Designer;Systems+Architect;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=12&icon=5&pretty=true" alt="profile views" />
+  
+# Mudassar Latif
+
+<a href="https://converttools.site"><img src="https://img.shields.io/badge/🌐_Website-converttools.site-2ea44f?style=for-the-badge&logo=firefox&logoColor=white&labelColor=222222" alt="Website"></a>
+<a href="https://github.com/Mudassar52"><img src="https://img.shields.io/github/followers/Mudassar52?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=222222" alt="GitHub"></a>
+<a href="https://linkedin.com/in/mudassarlatif"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222" alt="LinkedIn"></a>
+
 </div>
 
-<!-- Custom SVG Waves -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=120&section=header"/>
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/Mudassar52/repos?time_range=one_year&theme=dark" alt="GitHub Trends" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassar52&layout=donut&hide_border=true&theme=github_dark" alt="Top Languages" width="45%">
+</div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-
-<details>
-<summary>💭 Click to reveal my professional journey</summary>
-<br>
-
-```mermaid
-gantt
-  dateFormat  YYYY-MM
-  title My Professional Journey
+<div align="center">
   
-  section Education
-  University Degree      : 2014-01, 2018-05
-  Advanced Certification : 2019-02, 2019-06
-  
-  section Experience
-  Junior Developer       : 2018-06, 2020-03
-  Senior Developer       : 2020-04, 2022-09
-  Lead Architect         : 2022-10, 2025-02
-```
+## `{ Full-Stack Developer & Digital Craftsman }`
 
-</details>
-
-<details>
-<summary>🧠 Tech knowledge profile</summary>
-<br>
+</div>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Skills & Expertise</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="TailwindCSS"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
+      </div>
+      <br>
+      <h3 align="center">🛠 Projects & Work</h3>
+      <div align="center">
+        <a href="https://github.com/Mudassar52/converttools">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mudassar52&repo=converttools&theme=github_dark&hide_border=true" alt="ConvertTools"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/Mudassar52/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mudassar52&repo=portfolio&theme=github_dark&hide_border=true" alt="Portfolio"/>
+        </a>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>MySQL
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Stats & Activity</h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassar52&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF6600&ring=FF6600&currStreakLabel=FF6600" alt="GitHub Streak" width="100%"/>
+      </p>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mudassar52&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" width="100%" alt="Github Stats"/>
+      </div>
+      <br>
+      <h3 align="center">⚡ Current Focus</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
+        <img src="https://img.shields.io/badge/Cloud Architecture-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/AI Tools-FF6600?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools"/>
+      </div>
     </td>
   </tr>
 </table>
-</details>
+
+<div align="center">
+  
+## 🔄 My Development Workflow
+
+```mermaid
+graph LR
+    A[Ideation] --> B[Design]
+    B --> C[Development]
+    C --> D[Testing]
+    D --> E[Deployment]
+    E --> F[Maintenance]
+    F --> A
+    style A fill:#FF6600,stroke:#333,stroke-width:2px,color:white
+    style B fill:#0077B5,stroke:#333,stroke-width:2px,color:white
+    style C fill:#2ea44f,stroke:#333,stroke-width:2px,color:white
+    style D fill:#9933CC,stroke:#333,stroke-width:2px,color:white
+    style E fill:#FFCA28,stroke:#333,stroke-width:2px,color:white
+    style F fill:#E44D26,stroke:#333,stroke-width:2px,color:white
+```
+
+</div>
+
+<div align="center">
+  
+## 🧰 My Services
+  
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Web Development-FF6600?style=for-the-badge&logoColor=white" alt="Web Development"/><br>
+      Full-stack solutions with modern JavaScript frameworks and scalable backend services
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Tool Development-0077B5?style=for-the-badge&logoColor=white" alt="Tool Development"/><br>
+      Custom web tools and utilities for specific business needs and productivity enhancement
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/API Integration-2ea44f?style=for-the-badge&logoColor=white" alt="API Integration"/><br>
+      Seamless integration of third-party services and development of custom API solutions
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+## 📈 Contribution Calendar
+
+</div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mudassar52&theme=github-dark&hide_border=true&area=true)
+
+<div align="center">
+  
+## 🗂 Recent Projects on [ConvertTools.site](https://converttools.site)
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📝 Text Tools</h3>
+      <img width="150" height="100" src="/api/placeholder/150/100" alt="Text Tools"/>
+      <p>Powerful utilities for text conversion and manipulation</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🖼 Image Tools</h3>
+      <img width="150" height="100" src="/api/placeholder/150/100" alt="Image Tools"/>
+      <p>Convert, compress and edit images with ease</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📊 Data Tools</h3>
+      <img width="150" height="100" src="/api/placeholder/150/100" alt="Data Tools"/>
+      <p>Format and transform data between various formats</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+## 📫 Connect With Me
+  
+<a href="mailto:contact@converttools.site"><img src="https://img.shields.io/badge/Email-contact@converttools.site-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Email"></a>
+<a href="https://twitter.com/mudassarlatif"><img src="https://img.shields.io/badge/Twitter-@mudassarlatif-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=222222" alt="Twitter"></a>
+<a href="https://calendly.com/mudassarlatif"><img src="https://img.shields.io/badge/Schedule Meeting-Calendly-006BFF?style=for-the-badge&logo=GoogleCalendar&logoColor=white&labelColor=222222" alt="Calendly"></a>
+  
+</div>
+
+<div align="center">
+  
+## 🎯 GitHub Achievements
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Mudassar52&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  
+</div>
 
 <details>
-<summary>🌟 Core competencies</summary>
-<br>
+  <summary><b>💡 More About Me</b></summary>
+  <br>
+  
+  - 🌐 Creator of [ConvertTools.site](https://converttools.site) - a platform with free online utilities
+  - 🔭 Working on expanding my digital tools ecosystem
+  - 🌱 Currently enhancing my skills in cloud architecture and Web3
+  - 👨‍💻 All of my projects are available at [github.com/Mudassar52](https://github.com/Mudassar52)
+  - 📫 Reach me at contact@converttools.site
+  - ⚡ Fun fact: I automate everything I can in my workflow
 
-```elixir
-defmodule Developer do
-  def identity do
-    %{
-      name: "Your Name",
-      title: "Full Stack Developer & System Architect",
-      location: "City, Country",
-      available_for_hire: true
-    }
-  end
-
-  def core_skills do
-    [
-      %{category: "Languages", skills: ["TypeScript", "Python", "Rust", "Go", "Elixir"]},
-      %{category: "Frontend", skills: ["React", "Next.js", "Vue", "Svelte", "WebGL"]},
-      %{category: "Backend", skills: ["Node.js", "Django", "Spring Boot", "GraphQL", "gRPC"]},
-      %{category: "DevOps", skills: ["Docker", "Kubernetes", "Terraform", "Github Actions", "AWS"]}
-    ]
-  end
-
-  def current_focus do
-    [
-      "Building high-performance distributed systems",
-      "Implementing AI-driven development workflows",
-      "Contributing to open source projects",
-      "Mentoring junior developers"
-    ]
-  end
-end
-```
 </details>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Featured Projects
-
 <div align="center">
-<a href="https://github.com/yourusername/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&show_icons=true" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&show_icons=true" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Mudassar52&color=FF6600&style=for-the-badge" alt="Profile Views"/>
+  
+  ### 🙏 Thanks for visiting my GitHub profile!
 </div>
 
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> Github Stats
-
-<div align="center">
-  <details>
-  <summary>📊 Contribution Graph</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true&area=true" width="100%">
-  </details>
-
-  <details>
-  <summary>🏆 GitHub Trophies</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%">
-  </details>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
-
-<p align="center">
-  <i>I'm always open to interesting conversations and collaboration.</i>
-</p>
-
-<p align="center">
-  <a href="https://yourdomain.com/contact">
-    <img src="https://img.shields.io/badge/Schedule a meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar">
-  </a>
-</p>
-
-## <img src="https://media.giphy.com/media/1nULzDMXPBkv0ZlJ89/giphy.gif" width="40"> Current Status
-
+<!-- GitHub Actions workflow for automatic README updates -->
 ```yaml
-Currently:
-  Working_on: "Building a scalable microservice architecture"
-  Learning: "Rust and WebAssembly"
-  Looking_for: "Open source projects to contribute to"
-  Reading: "Clean Architecture by Robert C. Martin"
-```
-
-<!-- Custom SVG Waves -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5e5b&height=120&section=footer"/>
-
-<!-- Hidden Markdown for adding your GitHub Actions workflow for the snake animation -->
-<!-- 
-To enable the snake animation:
-1. Create .github/workflows/snake.yml with the following content:
-
-name: Generate Snake Animation
+# In .github/workflows/update-profile-readme.yml
+name: Update Profile README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update Profile README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: yourusername
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: Mudassar52/github-readme-stats-action@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Mudassar52
+          gif_out_path: dist/github-snake.gif
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update README with latest data'
+          add: '*.md *.gif'
+```  
